@@ -1,4 +1,8 @@
 new-repos
 =========
 
-my new repository
+Yeldos Nurlanov
+KBTU 2013
+West Kazakhstan Region
+Urlask city
+KTL
